@@ -33,8 +33,9 @@ p{
   background-color: #cbf1f5;
   padding-bottom: 10px;
 }
+
 .bottom-container{
-  background-color: white;
+  background-color: #FFF !important;
   position: relative;
   bottom: 0;
 }

@@ -74,3 +74,25 @@ p{
   width: 100px;
   height: 100px;
 }
+
+#fb-icon{
+    color: #007bff;
+}
+#fb-icon:hover{
+  color: #0b668e;
+}
+
+
+
+#tw-icon{
+    color: aquamarine;
+}
+#tw-icon:hover{
+    color: cornflowerblue;
+}
+#mail-icon{
+    color: black;
+}
+#mail-icon:hover{
+    color: darkslategrey;
+}
